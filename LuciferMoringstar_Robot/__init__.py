@@ -28,14 +28,17 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  𝒔𝑼𝒏𝑬𝒆𝑺𝒉 𝑫𝒆𝑬𝒛𝑼𝒛𝒁𝒂
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ 𝒋𝑶𝒊𝑵 𝒐𝑼𝒓 𝑮𝒓𝑶𝒖𝑷 : [𝒄𝑰𝒏𝑬𝒎𝑨 𝒄𝑯𝒂𝑲𝒌𝑼 𝑮𝒓𝑶𝒖𝑷](
+https://t.me/MMCINEMACHAKKU)
+
+➥ 𝒋𝑶𝒊𝑵 𝒐𝑼𝒓 𝑮𝒓𝑶𝒖𝑷 : [[𝑴𝑴] 𝒄𝑰𝒏𝑬𝒎𝑨 𝒄𝑳𝒖𝑩 𝑮𝒓𝑶𝒖𝑷](
+https://t.me/MM_CINEMA_CLUB_GROUP)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ 𝑶𝒘𝑵𝒆𝑹 : [Click Me](https://t.me/cinemaclubcc)
 """
